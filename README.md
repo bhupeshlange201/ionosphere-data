@@ -1,1 +1,1 @@
-# ionosphere-data
+# ionosphere-data Decodr competition
